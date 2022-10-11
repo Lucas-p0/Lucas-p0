@@ -1,11 +1,11 @@
 - 👋 Oi, Meu nome é Lucas
 - 👀 Meu interesse é aprender
-- 🌱 Atualmente estou apredando React.js, e estou apaixonado kk
-- 🤔 Estou procurando uma empresa para engrossar o caldo (Brink's)
+- 🌱 Atualmente estou apredando React.js
+- 🤔 (Brink's)
 - 📫 How to reach me ...
 
             
-            <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+            
           
           
 <!---
