@@ -1,3 +1,8 @@
+#Olá! Meu nome é Lucas 🧑🏿‍💻
+
+
+
+
 - 👋 Oi, Meu nome é Lucas
 - 👀 Meu interesse é aprender
 - 🌱 Atualmente estou apredando React.js
