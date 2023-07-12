@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou aspirante a desenvolvedor front-end, amante de café e resolver problemas... tem algum pra mim ai?</p>
+<p align="left">Aspirante a desenvolvedor front-end, amante de café e resolver problemas... tem algum pra mim ai?</p>
 
 ###
 
@@ -49,8 +49,4 @@
 
 
             
-          
-<---          
-Lucas-p0/Lucas-p0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
