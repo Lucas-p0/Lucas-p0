@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👋 Eu sou o Lucas?</h1>
+<h1 align="left">Oi 👋 Eu sou o Lucas!</h1>
 
 ###
 
@@ -7,6 +7,8 @@
 ###
 
 ✨ Criando bugs desde 2022<br>📚Atualmente estou aprendendo Angular, C# e SQL<br>🎯 Objetivo: Me tornar referência no mercado.<br><br>Atualmente trabalho na [Autoglass](https://www.autoglassonline.com.br/)
+[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-spinheiro/)](https://www.linkedin.com/in/lucas-spinheiro/)
+[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslogos@gmail.com)](mailto:lucaslogos@gmail.com)
 
 ###
 
