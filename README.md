@@ -1,6 +1,19 @@
-## Olá! Meu nome é Lucas 🧑🏿‍💻
+<h1 align="left">Oi 👋 Eu sou o Lucas?</h1>
 
-## 🚀🖥️Tecnologias & ferramentas
+###
+
+<p align="left">Sou aspirante a desenvolvedor front-end, amante de café e resolver problemas... tem algum pra mim ai?</p>
+
+###
+
+<p align="left">✨ Criando bugs desde 2022<br>📚Atualmente estou aprendendo Angular, C# e SQL<br>🎯 Objetivo: Me tornar referência no mercado.<br><br>Atualmente trabalho na @autoglass</p>
+
+###
+
+<h2 align="left">🚀🖥️Tecnologias & ferramentas:</h2>
+
+###
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
