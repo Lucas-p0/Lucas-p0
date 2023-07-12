@@ -6,7 +6,7 @@
 
 ###
 
-✨ Criando bugs desde 2022<br>📚Atualmente estou aprendendo Angular, C# e SQL<br>🎯 Objetivo: Me tornar referência no mercado.<br><br>Atualmente trabalho na Autoglass [AUTOGLASS](https://www.autoglassonline.com.br/)
+✨ Criando bugs desde 2022<br>📚Atualmente estou aprendendo Angular, C# e SQL<br>🎯 Objetivo: Me tornar referência no mercado.<br><br>Atualmente trabalho na [Autoglass](https://www.autoglassonline.com.br/)
 
 ###
 
