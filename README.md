@@ -7,7 +7,7 @@
 
 ## 🚀🖥️Tecnologias & ferramentas
 
-<div style="display: inline_block"><br>
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
