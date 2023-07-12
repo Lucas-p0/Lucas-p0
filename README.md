@@ -8,7 +8,7 @@
 
 ✨ Criando bugs desde 2022<br>📚Atualmente estou aprendendo Angular, C# e SQL<br>🎯 Objetivo: Me tornar referência no mercado.<br><br>Atualmente trabalho na [Autoglass](https://www.autoglassonline.com.br/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas-pinheiro?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-spinheiro/)](https://www.linkedin.com/in/lucas-spinheiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-spinheiro/)](https://www.linkedin.com/in/lucas-spinheiro/)
 [![Gmail Badge](https://img.shields.io/badge/-lucaslogos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaslogos@gmail.com)](mailto:lucaslogos@gmail.com)
 
 ###
