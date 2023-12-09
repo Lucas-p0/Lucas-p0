@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
+  <img src="https://img.shields.io/badge/dotnet-006bdd?logo=dotnet&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
   
 </div>
 
