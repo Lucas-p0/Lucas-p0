@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspirante a desenvolvedor front-end, amante de café e resolver problemas... tem algum pra mim ai?</p>
+<p align="left">Aspirante a desenvolvedor fullstack, amante de café e resolução problemas... tmj!</p>
 
 ###
 
